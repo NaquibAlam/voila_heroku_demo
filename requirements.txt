@@ -3,4 +3,3 @@ ipyvuetify
 voila-vuetify
 bqplot
 numpy
-Python 3.7.4
